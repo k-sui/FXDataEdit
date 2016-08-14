@@ -34,6 +34,7 @@ def createXChart(Xmin):
     for row in dbHelper1min.getAllDataCursor().fetchall():
 
 
+
         rowTime = dt.datetime.strptime(row[0],DBConstants.TIME_FORMAT)
 
         # 1分足の時刻を取得

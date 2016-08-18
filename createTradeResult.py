@@ -7,6 +7,7 @@ import datetime as dt
 from DBHelper import DBHelper
 from DBConstants import DBConstants
 
+
 DB_PATH  = "db/fxdata.db"
 
 # 1分足のチャートを使ってX分足の取引結果を作成する

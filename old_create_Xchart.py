@@ -5,6 +5,7 @@ import numpy as np
 import time
 import datetime
 
+
 #1分足のチャートからX分足のチャートを作成する
 # 中途半端な分足や時間足には対応していない。(例：13分足や5時間足など、公約数で無い数値)
 def create_Xchart(Xmin, inFileNames, outFileName):

@@ -3,6 +3,7 @@
 import sqlite3 as sqlite
 import csv
 
+
 class DBHelper:
 
     DB_PATH  = "db/fxdata.db"

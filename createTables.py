@@ -2,6 +2,7 @@
 
 from DBHelper import DBHelper
 
+
 DB_PATH  = "db/fxdata.db"
 
 if __name__ == "__main__":

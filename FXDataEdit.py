@@ -2,6 +2,7 @@
 
 import createTradeResult
 
+
 FIRST_YEAR = 2000
 LAST_YEAR = 2015
 

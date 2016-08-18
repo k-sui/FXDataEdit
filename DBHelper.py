@@ -4,6 +4,7 @@ import sqlite3 as sqlite
 from datetime import datetime
 from DBConstants import DBConstants 
 
+
 # 指定したテーブルに書き込み、読み込みを行うヘルパクラス
 # テーブル自体は既にあるものとする
 class DBHelper:

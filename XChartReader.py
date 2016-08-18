@@ -4,6 +4,7 @@ import sqlite3 as sqlite
 import csv
 import datetime 
 
+
 class DBHelper:
 
     DB_PATH  = "db/fxdata.db"

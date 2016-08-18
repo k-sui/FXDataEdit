@@ -8,6 +8,7 @@ from DBHelper import DBHelper
 from DBConstants import DBConstants
 import createTableData
 
+
 DB_PATH  = "db/fxdata.db"
 
 
